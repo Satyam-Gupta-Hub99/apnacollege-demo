@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my first Git repository 
-Author Satyam Gupta
+<br>
+Author - Satyam Gupta
